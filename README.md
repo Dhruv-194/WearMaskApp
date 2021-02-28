@@ -15,3 +15,6 @@ Well the solution is very simple.
 In the 21st century where we are overly dependent on internet and we are continously on the internet almost always online be it through wifi or mobile data. 
 
 So by using a very simple logic of network connection and disconnection this app works. As soon as you leave your house that you get disconnected from the internet then a notification will be sent to your phone which will then vibrate your phone and remind you to wear a mask. 
+
+
+As our all new social experiences includes a mask which is now a necessity, then making an app for it will definitely enhance our community capabilities and social experiences. 
