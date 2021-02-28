@@ -1,4 +1,4 @@
-# WearMasApp  
+# WearMaskApp  
 
 In the present COVID times when it is necessary for us to live and quarantine at our homes we most often than not forget to wear our mask whenver we go out to buy something or to meet someone or for some other thing. If something like this happens with you then worry not because this app will cater to your need of forgetting to wear a mask.
 This App is basically a reminder app which helps you to remember to wear a mask whenever you go out. 
