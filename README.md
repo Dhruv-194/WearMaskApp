@@ -31,3 +31,5 @@ As soon as the user disconnects from his/her wifi network then the app notices t
 Add a geofencing feature using maps and coordinates which will make the app more specific.
 
 This feature will take the location of the user ie his/her home-address coordiantes and then creates a geofencing of 5m radius around the house and as soon as the user leaves that area the phone will vibrate and send him a notification on the phone. 
+
+Put all these function features as a background runtime process which begins automatically without the user opening the app. 
